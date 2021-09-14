@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dmitriy-Rassol/Funiro.git"
+    "url": "git+https://github.com/Dmitriy-Rassol/gulp-temp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dmitriy-Rassol/Funiro/issues"
+    "url": "https://github.com/Dmitriy-Rassol/gulp-temp/issues"
   },
-  "homepage": "https://github.com/Dmitriy-Rassol/Funiro#readme",
+  "homepage": "https://github.com/Dmitriy-Rassol/gulp-temp#readme",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
