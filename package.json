@@ -1,5 +1,5 @@
 {
-  "name": "gulp template",
+  "name": "gulp_template",
   "version": "1.0.0",
   "description": "сборщик проектов",
   "main": "index.js",
